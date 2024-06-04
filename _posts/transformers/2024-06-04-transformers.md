@@ -1,16 +1,30 @@
+---
+title: "Transformers Learning"
+subtitle: "视图"
+layout: post
+author: "eric"
+header-style: text
+hidden: true
+tags:
+  - transformers
+  - llama
+  - LLM
+  - AIGC
+---
+
 ![Hugging Face Transformers Library](https://camo.githubusercontent.com/19694a747faa4c55cbdb1cab99086099c6cf961930712f87ab3469e9bf706a4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667)
 
 ### 源码学习
 
 #### transformers的架构
 
-[编码器-解码器架构](tutorials/encoding_decoding.md)
+[编码器-解码器架构](./tutorials/encoding_decoding.md)
 
-[自注意力机制](tutorials/self_attention.md)
+[自注意力机制](./tutorials/self_attention.md)
 
-[多头注意力机制](tutorials/multi_head_attention.md)
+[多头注意力机制](./tutorials/multi_head_attention.md)
 
-[位置编码](tutorials/positional_encoding.md)
+[位置编码](./tutorials/positional_encoding.md)
 
 #####  添加一个实践
 
