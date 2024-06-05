@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends: ""
-  # [
-  #   { title: "xx", href: "xx" },
-  # ]
+# friends: ""
+#   # [
+#   #   { title: "xx", href: "xx" },
+#   # ]
