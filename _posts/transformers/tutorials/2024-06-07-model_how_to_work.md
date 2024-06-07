@@ -47,6 +47,7 @@ Meta-Llama-3-8B                         ## 模型为LLama3-8B模型
 ### 模型使用
 
 - 此处以模型的推理举例
+
 ~~~ python
 import transformers
 import torch
@@ -60,6 +61,7 @@ print(outputs[0]["generated_text"])
 ~~~
 
 - 模型推理运行过程
+
 ![alt text](../figures/llama3_interence_result.png)
 
 ## Transformer
@@ -81,7 +83,7 @@ Transformers 提供了数以千计的预训练模型，支持 100 多种语言�
 ### 源码
 
 ~~~
-.
+
 ├── benchmark
 ├── commands
 ├── data
