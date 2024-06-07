@@ -1,5 +1,5 @@
 ---
-title: "Model how to work"
+title: "模型是如何工作的"
 subtitle: "模型是如何工作的"
 layout: post
 author: "eric"
