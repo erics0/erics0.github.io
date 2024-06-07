@@ -1,3 +1,17 @@
+---
+title: "Model how to work"
+subtitle: "模型是如何工作的"
+layout: post
+author: "eric"
+header-style: text
+hidden: false
+tags:
+  - transformers
+  - llama
+  - LLM
+  - AIGC
+---
+
 ## 大语言模型
 
 大语言模型（LLM）是一种利用机器学习技术来理解和生成人类语言的人工智能模型。对于希望从各个方面增强通信和数据处理并实现自动化的企业和机构而言，LLM 具有极高的价值。 
