@@ -1,7 +1,7 @@
 # Site settings
 title: Yanyi Blog
 SEOTitle: Yanyi的博客 | Yanyi Blog
-header-img: img/home-bg.jpg
+header-img: ""
 email: xxx@gmail.com
 description: "这里是 Yanyi 的个人博客，与你一起发现更大的世界 | 要做一个有趣的灵魂"
 keyword: " Yanyi的博客, Yanyi Blog, 博客, 个人网站, 互联网, 游戏, 大数据, AIGC, 设计,JAVA,PYTHON,C++"
@@ -87,7 +87,6 @@ service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
-
 # Friends
 # friends: ""
 #   # [
