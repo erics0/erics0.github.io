@@ -1,4 +1,16 @@
 
+---
+title: "Pipeline的工作流程"
+subtitle: "Pipeline的工作流程"
+layout: post
+author: "eric"
+header-style: text
+hidden: false
+tags:
+  - transformers
+  - LLM
+  - AIGC
+---
 
 ## 样例 classfication
 
