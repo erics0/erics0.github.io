@@ -62,7 +62,7 @@ print(outputs[0]["generated_text"])
 
 - 模型推理运行过程
 
-![alt text](https://github.com/mccpr/mccpr.github.io/blob/main/_posts/transformers/figures/llama3_interence_result.png)
+![](https://github.com/mccpr/mccpr.github.io/blob/main/_posts/transformers/figures/llama3_interence_result.png)
 
 ## Transformer
 
@@ -76,7 +76,7 @@ Transformers 提供了数以千计的预训练模型，支持 100 多种语言�
 
 ### 原理
 
-![alt text](https://github.com/mccpr/mccpr.github.io/blob/main/_posts/transformers/figures/transformers.png)
+![](https://github.com/mccpr/mccpr.github.io/blob/main/_posts/transformers/figures/transformers.png)
 
 - 多头自注意力机制
 
