@@ -1,4 +1,3 @@
-
 ---
 title: "Pipeline的工作流程"
 subtitle: "Pipeline的工作流程"
@@ -8,6 +7,7 @@ header-style: text
 hidden: false
 tags:
   - transformers
+  - llama
   - LLM
   - AIGC
 ---
