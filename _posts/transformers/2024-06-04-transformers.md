@@ -30,7 +30,7 @@ tags:
 
 [适配llama各类](./tutorials/transformers_model_code.md)
 
-[模型是如何工作的](./tutorials/2024-06-07-model_how_to_work.md)
+[模型是如何工作的](https://mccpr.github.io/2024/06/07/model_how_to_work/)
 
 #### 预训练和微调
 
