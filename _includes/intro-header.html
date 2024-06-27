@@ -79,6 +79,8 @@
         header.intro-header {
             height: 500px;
             overflow: hidden;
+            position: fixed;
+            top: 0;
         }
 
         header.intro-header .container {
@@ -120,7 +122,7 @@
 
 {% if include.type == 'page' %}
 <header class="intro-header"
-    style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ page.header-img }}{% endif %}')">
+    style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ page.header-img  }}{% endif %}')">
     <div class="header-mask"></div>
     <!-- <div class="container">
     <div class="row">
